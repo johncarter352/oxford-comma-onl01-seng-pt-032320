@@ -1,4 +1,6 @@
 def oxford_comma(array)
-  array = []
+  n_array = []
+  
+  
 
 end
